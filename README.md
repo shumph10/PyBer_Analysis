@@ -69,3 +69,7 @@ Relationships between variables for PyBer ride data per city type is as follows:
 
 ##**Summary**
 Based on the relationships established, the lowest area of accessibility occurs in rural areas. The driver count is lowest in these rural areas so recruitment of additional drivers in these cities could be beneficial in increasing availability and driving sales. Total and average fare by city type shows urban cities had majority of fares. Increased marketing in these urban cities where there is high demand for services could additionally improve profit in these areas. Average fare per city type additionally shows a significantly higher fare in rural areas, and total rides per city types graph depicts a decrease in rides as prices increase. Therefore, running promotions or lowering prices in rural areas would improve total rides. If the promotions or price decreases is done with knowledge of potentially higher number of rides profits could improve in these areas as well. 
+
+
+##**Contact:**
+- sarahhumphrey2016@outlook.com
