@@ -1,12 +1,18 @@
 # PyBer_Analysis
 Analysis of PyBer ride sharing data for multiple city types (rural, suburban, and urban) was done to determine relationships between location, cost, number of drivers, and amount of rides. 
 
+----------------------------------------------------------
+
+##**Overview**
+PyBer, a python-based ride sharing company requested analysis of data for rides from 2019 accross different city types. The types of city (rural, suburban, and urban), number of drivers and riders, and fare were analyized to determine possible relationships. These relationships will be used in future decisions to improve access and affordability of rides. Rural cities were found to have lower numbers of total rides and fares, and urban cities were found to have higher total rides and fares. Additionally as fare prices went up, total of rides get down thus having a negitiave correlation. Graphs representing these relationships can be found in the analysis folder. With these relationships determined, an in depth analysis of weekly total fares by city type was desired. Dataframes were created in Jupyter Notebook to house the sorted information and a master line graph was made to depict the differences in total weekly fares by city type.
+
+----------------------------------------------------------
+
 ##**Resources**
 Data Sources: city_data.csv, PyBer_ride_data.csv, ride_data.csv. 
 Software: Python 3.9.7, Jupyter Notebook 6.4.0
 
-##**Overview**
-PyBer, a python-based ride sharing company requested analysis of data for rides from 2019 accross different city types. The types of city (rural, suburban, and urban), number of drivers and riders, and fare were analyized to determine possible relationships. These relationships will be used in future decisions to improve access and affordability of rides. Rural cities were found to have lower numbers of total rides and fares, and urban cities were found to have higher total rides and fares. Additionally as fare prices went up, total of rides get down thus having a negitiave correlation. Graphs representing these relationships can be found in the analysis folder. With these relationships determined, an in depth analysis of weekly total fares by city type was desired. Dataframes were created in Jupyter Notebook to house the sorted information and a master line graph was made to depict the differences in total weekly fares by city type.
+----------------------------------------------------------
 
 ##**Results**
 Relationships between variables for PyBer ride data per city type is as follows:
@@ -67,9 +73,14 @@ Relationships between variables for PyBer ride data per city type is as follows:
 
 ![Total_Fare_by_City_Type_graph2](https://user-images.githubusercontent.com/100040705/163724347-2b5b491d-1be0-45bc-bc88-e7848b88448a.png)
 
+----------------------------------------------------------
+
 ##**Summary**
 Based on the relationships established, the lowest area of accessibility occurs in rural areas. The driver count is lowest in these rural areas so recruitment of additional drivers in these cities could be beneficial in increasing availability and driving sales. Total and average fare by city type shows urban cities had majority of fares. Increased marketing in these urban cities where there is high demand for services could additionally improve profit in these areas. Average fare per city type additionally shows a significantly higher fare in rural areas, and total rides per city types graph depicts a decrease in rides as prices increase. Therefore, running promotions or lowering prices in rural areas would improve total rides. If the promotions or price decreases is done with knowledge of potentially higher number of rides profits could improve in these areas as well. 
 
+----------------------------------------------------------
 
-##**Contact:**
-- sarahhumphrey2016@outlook.com
+##**Contact Me**
+
+Email: sarahhumphrey2016@outlook.com </br>
+[LinkedIn](https://www.linkedin.com/in/sarah-humphrey-data-analyst/)
